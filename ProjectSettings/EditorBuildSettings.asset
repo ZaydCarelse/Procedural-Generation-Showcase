@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Main Menu.unity
+    guid: 9fc0d4010bbf28b4594072e72b8655ab
+  - enabled: 1
+    path: Assets/Scenes/1BlockCreation.unity
+    guid: e25834c79c7d68e46adb94df63257da7
+  - enabled: 1
+    path: Assets/Scenes/2WallsAndCorridors.unity
+    guid: 02f7eb52b72b0e144b0ee35c7705e95b
+  - enabled: 1
+    path: Assets/Scenes/3TheDrunkenCrawl.unity
+    guid: eb16b34cb8d05e2438855be445d483f2
+  - enabled: 1
+    path: Assets/Scenes/4CustomiseTheCrawl.unity
+    guid: 48418cf1dacc6e54d9a03baeadc0fea5
+  - enabled: 1
+    path: Assets/Scenes/5MazeWalkAround.unity
+    guid: 59032ed477682154da08733b07917ac0
+  - enabled: 1
+    path: Assets/Scenes/6PrimsAlgorithm.unity
+    guid: f1d1a14eb4a2e93419bb9915aa76e05a
+  - enabled: 1
+    path: Assets/Scenes/7WilsonsMazeGenerator.unity
+    guid: 010591aa5adbe7c4bba63ec3403b8f87
+  - enabled: 1
+    path: Assets/Scenes/Credits.unity
+    guid: a170ea02b8b3c044e99f68badb492ef8
+  m_configObjects: {}
